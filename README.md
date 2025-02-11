@@ -1,11 +1,15 @@
 # Generative AI Projects
+
 ---
+
 # Generative AI Projects
 
 Welcome to the **Generative AI Projects** repository! This collection is focused on exploring and showcasing a variety of generative models, including Generative Adversarial Networks (GANs) and Variational Autoencoders (VAEs). The tutorials and projects here cover a range of datasets and applications, from classic benchmarks like MNIST to more complex ones like CIFAR-10 and FashionMNIST.
 
 Whether you're looking to learn about generative AI or build on existing knowledge, this repository offers hands-on projects and easy-to-follow code to help you dive into the exciting world of AI-generated content.
+
 ---
+
 ## Table of Contents
 
 - [Tutorial 1: Generative Adversarial Networks (GANs)](#tutorial-1-generative-adversarial-networks-gans)
@@ -15,6 +19,7 @@ Whether you're looking to learn about generative AI or build on existing knowled
 - [Tutorial 5: Apply Regularization Techniques to Improve VAE](#tutorial-5-apply-regularization-techniques-to-improve-vae)
 
 ---
+
 ## Tutorials Overview
 
 ### Tutorial 1: **Generative Adversarial Networks (GANs)**
