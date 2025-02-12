@@ -24,7 +24,7 @@ Whether you're looking to learn about generative AI or build on existing knowled
 
 ### Tutorial 1: **Generative Adversarial Networks (GANs)**
 
-**Objective:** Train a GAN to generate realistic images from the CIFAR-10 dataset.
+**Objective:** Train a GAN to generate realistic images from the MNIST dataset.
 
 **Key Features:**
 - Implementation of Generator and Discriminator networks.
