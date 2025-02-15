@@ -33,7 +33,7 @@ Whether you're looking to learn about generative AI or build on existing knowled
 
 ---
 
-### Tutorial 2: ** Generative Adversarial Networks (GANs) on CIFAR-10**
+### Tutorial 2: **Generative Adversarial Networks (GANs) on CIFAR-10**
 
 **Objective:** Train a GAN to generate realistic images from the the CIFAR-10 dataset.
 
