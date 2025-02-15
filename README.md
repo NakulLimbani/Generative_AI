@@ -12,8 +12,8 @@ Whether you're looking to learn about generative AI or build on existing knowled
 
 ## Table of Contents
 
-- [Tutorial 1: Generative Adversarial Networks (GANs)](#tutorial-1-generative-adversarial-networks-gans)
-- [Tutorial 2: Autoencoder and Variational Autoencoder (VAE)](#tutorial-2-autoencoder-and-variational-autoencoder-vae)
+- [Tutorial 1: Generative Adversarial Networks (GANs) on MNIST](#tutorial-1-generative-adversarial-networks-gans-on-MNIST)
+- [Tutorial 2: Generative Adversarial Networks (GANs) on CIFAR-10](#tutorial-2-generative-adversarial-networks-gans-on-CIFAR-10)
 - [Tutorial 3: Exploring Latent Space and Interpolation](#tutorial-3-exploring-latent-space-and-interpolation)
 - [Tutorial 4: VAE on Fashion MNIST Dataset](#tutorial-4-vae-on-fashion-mnist-dataset)
 - [Tutorial 5: Apply Regularization Techniques to Improve VAE](#tutorial-5-apply-regularization-techniques-to-improve-vae)
@@ -22,7 +22,7 @@ Whether you're looking to learn about generative AI or build on existing knowled
 
 ## Tutorials Overview
 
-### Tutorial 1: **Generative Adversarial Networks (GANs)**
+### Tutorial 1: **Generative Adversarial Networks (GANs) on MNIST**
 
 **Objective:** Train a GAN to generate realistic images from the MNIST dataset.
 
@@ -33,14 +33,15 @@ Whether you're looking to learn about generative AI or build on existing knowled
 
 ---
 
-### Tutorial 2: **Autoencoder and Variational Autoencoder (VAE)**
+### Tutorial 2: ** Generative Adversarial Networks (GANs) on CIFAR-10**
 
-**Objective:** Understand and compare the functionality of Autoencoders (AE) and VAEs on the CIFAR-10 dataset.
+**Objective:** Train a GAN to generate realistic images from the the CIFAR-10 dataset.
 
 **Key Features:**
-- Reconstruction of images using AE and VAE.
-- Introduction to KL divergence in VAE.
-- Training loss and reconstruction quality comparison.
+- Generator and Discriminator network implementations.
+- Adversarial training over 100 epochs.
+- Visualizations of generated images and loss trends.
+- Evaluation using FID and Inception Score.
 
 ---
 
